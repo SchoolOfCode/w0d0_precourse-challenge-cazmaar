@@ -11,16 +11,18 @@ body header h2 {
   background: white;
   border-radius: 40px;
   padding: 20px;
+  margin-left: 200px;
+  margin-right: 150px;
 }
 #image {
   padding: 20px;
   width: 60em;
-  padding-left: 150px;
+  padding: auto;
 }
 #img-caption {
   /* text-align: center; */
   margin-left: 315px;
 }
-article h2{
- text-align: center;
+article h2 {
+  text-align: center;
 }
