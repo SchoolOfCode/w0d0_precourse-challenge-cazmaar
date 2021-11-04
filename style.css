@@ -1,0 +1,26 @@
+#main {
+  background: #c1cfda;
+}
+body header h1 {
+  text-align: center;
+}
+body header h2 {
+  text-align: center;
+}
+#img-div {
+  background: white;
+  border-radius: 40px;
+  padding: 20px;
+}
+#image {
+  padding: 20px;
+  width: 60em;
+  padding-left: 150px;
+}
+#img-caption {
+  /* text-align: center; */
+  margin-left: 315px;
+}
+article h2{
+ text-align: center;
+}
