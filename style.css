@@ -20,9 +20,19 @@ body header h2 {
   padding: auto;
 }
 #img-caption {
-  /* text-align: center; */
-  margin-left: 315px;
+  text-align: center;
 }
 article h2 {
   text-align: center;
+}
+#title {
+  font-size: 3em;
+  font-weight: bold;
+}
+.timeline {
+  margin-left: 80px;
+
+  font-size: 20px;
+  line-height: 2.5em;
+
 }
