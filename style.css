@@ -7,7 +7,6 @@ body header h2 {
 
 #img-div {
   background: #ede7d9;
-
   border-radius: 40px;
   padding: 30px;
   margin: 0 auto;
@@ -16,9 +15,10 @@ body header h2 {
   max-width: 700px;
 }
 #image {
-  /* padding: 20px;  */
+  /* This width being 100% means that whatever the width of the parent element changes to this will also change to that. It resizes based on the width of the parent element. */
   width: 100%;
   height: auto;
+  /* The max width means that the width can not exceed this width but it can go below. */
   max-width: 700px;
   margin: 0 auto;
   display: block;
@@ -42,9 +42,7 @@ ul {
   border-radius: 20px;
   padding: 40px;
 }
-a {
-  color: blue;
-}
+
 a:visited {
   color: red;
 }
