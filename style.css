@@ -6,7 +6,7 @@ body header h2 {
 }
 
 #img-div {
-  background: white;
+  background: #ede7d9;
 
   border-radius: 40px;
   padding: 30px;
@@ -29,17 +29,17 @@ article h2 {
   font-weight: bold;
   text-align: center;
 }
-ul{
- /* display: table; */
- margin: 0 auto;
- max-width: 50%;
+ul {
+  margin: 0 auto;
+  max-width: 50%;
+  line-height: 1.5em;
+  background: #ede7d9;
+  border-radius: 20px;
+  padding: 40px;
 }
-
-
- 
-
-
- 
-
-
-
+a {
+  color: blue;
+}
+a:visited {
+  color: red;
+}
