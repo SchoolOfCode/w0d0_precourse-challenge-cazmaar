@@ -42,7 +42,7 @@ ul {
   border-radius: 20px;
   padding: 40px;
 }
-
+/* pseudo code to show when a link has been visited. */
 a:visited {
   color: red;
 }
